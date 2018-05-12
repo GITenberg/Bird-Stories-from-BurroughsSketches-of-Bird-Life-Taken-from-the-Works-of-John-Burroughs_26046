@@ -1,0 +1,38 @@
+_repo: Bird-Stories-from-BurroughsSketches-of-Bird-Life-Taken-from-the-Works-of-John-Burroughs_26046
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fuertes, Louis Agassiz
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '4612'
+    url: http://www.gutenberg.org/2009/agents/4612
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Agassiz_Fuertes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds'
+title: 'Bird Stories from Burroughs
+
+  Sketches of Bird Life Taken from the Works of John Burroughs'
+url: http://www.gutenberg.org/ebooks/26046
